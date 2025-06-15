@@ -1,4 +1,4 @@
-# DoDCyberSentinelJune2025
+# DoD Cyber Sentinel June 2025
 Write-up from my participation in the DoD Cyber Sentinel CTF, hosted by Correlation One in June 2025. I ended up solving 15 (3 of which were bonus flags obtained through slack, practice submission, and post-competiton survey), to place me 249th out of 2,155 people.
 
 
@@ -7,8 +7,8 @@ Write-up from my participation in the DoD Cyber Sentinel CTF, hosted by Correlat
 | [Secret.txt Society](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Web%💅/Secret.txt-Society.md) | Web Security | 75 |
 | [Field Reports Mayhem](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Web%20Security/Field-Reports-Mayhem.md)      | Web Security      |   150 |
 | [Behind the Beat](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Forensics/Behind-the-Beat.md) | Forensics      |    75 |
-| Hidden in Plain Sight | Forensics      |    75 |
-| Listening Post | Forensics      |    150 |
+| [Hidden in Plain Sight](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Forensics/Hidden-in-Plain-Sight.md) | Forensics      |    75 |
+| [Listening Post](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Forensics/Listening-Post.md) | Forensics      |    150 |
 | [Cafe Confidential](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Cafe-Confidential.md) | OSINT      |    75 |
 | [Problems in North TORbia](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Problems-in-North-TORbia.md) | OSINT      |    150 |
 | [Inspo 💅](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Inspo%20💅.md) | OSINT |    200 |
