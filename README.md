@@ -4,7 +4,7 @@ Write-up from my participation in the DoD Cyber Sentinel CTF, hosted by Correlat
 
 | Challenge        | Category       | Value  |
 | ------------- |:-------------:| -----:|
-| [Secret.txt Society](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Web%20Security/Secret.txtSociety.md) | Web Security | 75 |
+| [Secret.txt Society](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Web%20Security/Secret.txt-Society.md) | Web Security | 75 |
 | Field Reports Mayhem      | Web Security      |   150 |
 | Behind the Beat | Forensics      |    75 |
 | Hidden in Plain Sight | Forensics      |    75 |
