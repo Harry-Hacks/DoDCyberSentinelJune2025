@@ -23,7 +23,11 @@ Note that this flag is a regex match for any valid coordinate within the 500m ra
 3. That showed me a TikTok with the caption "Kim Jong Un Inspects Hwasong Area"
 <img width="355" alt="Screenshot 2025-06-15 at 12 44 54 PM" src="https://github.com/user-attachments/assets/7ad06434-2889-454d-a0af-c2caeb1809a6" />
 
-5. I then Googled Hwasong and found their Wikipedia page which showed the coordinates
+
+4. I then Googled Hwasong and found their Wikipedia page which showed the coordinates
    <img width="331" alt="Screenshot 2025-06-15 at 12 49 38 PM" src="https://github.com/user-attachments/assets/a9d40a2a-ef86-4663-bc52-fecdab0d04e3" />
 
 Flag C1{39.096,125.777}
+
+# Takeaways
+Overall, reverse image search to the rescue again!
