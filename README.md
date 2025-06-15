@@ -1,5 +1,5 @@
 # DoDCyberSentinelJune2025
-Write-up from my participation in the DoD Cyber Sentinel CTF, hosted by Correlation One in June 2025. I ended up solving 15 (3 of which were bonus flags obtained through slack, practice submission, and post-competiton survey)
+Write-up from my participation in the DoD Cyber Sentinel CTF, hosted by Correlation One in June 2025. I ended up solving 15 (3 of which were bonus flags obtained through slack, practice submission, and post-competiton survey), to place me 249th out of 2,155 people.
 
 
 | Challenge        | Category       | Value  |
