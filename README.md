@@ -11,7 +11,7 @@ Write-up from my participation in the DoD Cyber Sentinel CTF, hosted by Correlat
 | Listening Post | Forensics      |    150 |
 | [Cafe Confidential](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Cafe-Confidential.md) | OSINT      |    75 |
 | [Problems in North TORbia](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Problems-in-North-TORbia.md) | OSINT      |    150 |
-| [Inspo 💅](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Inspo.md) | OSINT |    200 |
+| [Inspo 💅](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Inspo%20💅.md)) | OSINT |    200 |
 | Packet Whisperer | Networking      |    75 |
 | Hardcoded Lies | Malware/Reverse Engineering      |    75 |
 | Encoded Evidence | Malware/Reverse Engineering      |    75 |
