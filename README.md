@@ -15,7 +15,7 @@ Write-up from my participation in the DoD Cyber Sentinel CTF, hosted by Correlat
 | [Packet Whisperer](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Networking/Packet-Whisperer.md) | Networking      |    75 |
 | Hardcoded Lies | Malware/Reverse Engineering      |    75 |
 | Encoded Evidence | Malware/Reverse Engineering      |    75 |
-| Hoasted Toasted 🍞 | Recon      |    150 |
+| [Hoasted Toasted 🍞](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Recon/Hoasted-Toasted%20🍞.md) | Recon      |    150 |
 
 
 
