@@ -4,14 +4,14 @@ Write-up from my participation in the DoD Cyber Sentinel CTF, hosted by Correlat
 
 | Challenge        | Category       | Value  |
 | ------------- |:-------------:| -----:|
-| [Secret.txt Society](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Web%20Security/Secret.txt-Society.md) | Web Security | 75 |
+| [Secret.txt Society](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Web%💅/Secret.txt-Society.md) | Web Security | 75 |
 | [Field Reports Mayhem](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Web%20Security/Field-Reports-Mayhem.md)      | Web Security      |   150 |
 | [Behind the Beat](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/Forensics/Behind-the-Beat.md) | Forensics      |    75 |
 | Hidden in Plain Sight | Forensics      |    75 |
 | Listening Post | Forensics      |    150 |
-| Cafe Confidential | OSINT      |    75 |
-| Prooblems in North TORbia | OSINT      |    150 |
-| Inspo 💅 | OSINT |    200 |
+| [Cafe Confidential](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Cafe-Confidential.md) | OSINT      |    75 |
+| [Problems in North TORbia](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Problems-in-North-TORbia.md) | OSINT      |    150 |
+| [Inspo 💅](https://github.com/HarryCybersecurity/DoDCyberSentinelJune2025/blob/main/OSINT/Inspo.md) | OSINT |    200 |
 | Packet Whisperer | Networking      |    75 |
 | Hardcoded Lies | Malware/Reverse Engineering      |    75 |
 | Encoded Evidence | Malware/Reverse Engineering      |    75 |
