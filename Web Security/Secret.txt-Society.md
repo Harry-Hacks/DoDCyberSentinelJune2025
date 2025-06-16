@@ -12,4 +12,5 @@ Our team suspects that a Juche Jaguar developer accidentally left something inte
 2. On site it says they recently updated their 'robots.txt' file
 3. enumerate the url with robots.txt
 4. Flag is revealed on that page
-5. <img width="746" alt="Screenshot 2025-06-15 at 10 24 08 AM" src="https://github.com/user-attachments/assets/9d9baf80-8309-49c8-8b46-3d3e010abd22" />
+
+<img width="746" alt="Screenshot 2025-06-15 at 10 24 08 AM" src="https://github.com/user-attachments/assets/9d9baf80-8309-49c8-8b46-3d3e010abd22" />
