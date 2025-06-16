@@ -8,7 +8,8 @@
 Our blue team intercepted a network capture file. It contains unencrypted HTTP traffic. While skimming through it, analysts believe someone accidentally exposed their login credentials in plain text. Review the PCAP to find the password that the user logged in with.
 
 # Steps
-1. Download the attached pcap file, for this I used tshark to filter the file for POST requests, that revealed the password in plain text
+1. Download the attached pcap file, for this I used tshark to filter the file for POST requests, that revealed the password in plain text\
+`#tshark -r login.pcap -Y 'http.request.method == "POST"' -T fields -e`\
 
 ![Flag](https://github.com/user-attachments/assets/b0d31fbc-b7b2-42b9-a4bc-38fbada24615)
 
