@@ -15,6 +15,5 @@ This was the file included:
 1. Knowing that this was also a metadata challenge, I used the command `exiftool`
 2. This is the result:
 
-`exiftool selfie.png | grep C1`
-
-`Comment : C1{smile_youre_flagged}`
+`exiftool selfie.png | grep C1`\
+`Comment: C1{smile_youre_flagged}`
