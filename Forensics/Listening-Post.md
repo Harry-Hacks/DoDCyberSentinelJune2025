@@ -12,13 +12,13 @@ We've intercepted a radio broadcast being bounced off a satellite likely intende
 
 2. It contained a series of beeps that sounded sort of like someone putting in a phone number so I thought of using a DTMF decoder
 
-3. I had to install the decoder on my laptop
+3. I had to install the decoder on my laptop\
 `sudo apt install sox multimon-ng`
   
-4. Then adjust the audio file to 8000 Hz (I learned this was the standard for DTMF decoders)
+4. Then adjust the audio file to 8000 Hz (I learned this was the standard for DTMF decoders)\
 `sox radio.wav -r 8000 -c 1 radio_dtmf.wav`
 
-5. After running this, I got an output with many lines of 0's and 1's
+5. After running this, I got an output with many lines of 0's and 1's\
 ex:
 `DTMF: 0
 DTMF: 1
