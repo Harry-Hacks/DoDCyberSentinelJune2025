@@ -22,4 +22,4 @@ Use the credentials: `1234:spudpotato`
 5. This brought up a different dashboard with more reports, one of them contained the flag in the description
 
 6. Debrief: I extracted the Supreme Leader's secret pizza-order
-7. discount code: CH1{ID0R_F13LD_R3P0RT}. The pizza delivery arrived}
+7. discount code: CH1{ID0R_F13LD_R3P0RT}. The pizza delivery arrived
