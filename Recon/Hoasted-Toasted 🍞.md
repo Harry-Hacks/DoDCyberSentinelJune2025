@@ -17,8 +17,10 @@ The sites is at https://not-torbian.ethtrader-ai.com/
 
 3. openssl s_client -connect not-torbian.ethtrader-ai.com:443 -servername internal.not-torbian.ethtrader-ai.com
 
-4. This got a suspicious DNS entry with DNS:definitelynotaflag.north.torbia
+5. This got a suspicious DNS entry with DNS:definitelynotaflag.north.torbia
+<img width="550" alt="SSL" src="https://github.com/user-attachments/assets/99fa3ff4-dff6-45a8-b578-56e9c141ecc2" />
 
-5. In the subdomain was the flag
+
+7. In the subdomain was the flag
 
 C1{vH0st_S4n_M4g1c_R3ve4l3d}
