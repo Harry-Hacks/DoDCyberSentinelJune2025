@@ -15,5 +15,5 @@ Agents intercepted an audio file named message.mp3. It plays single tone, but we
 3. I decided to run a 'strings' command on the audio file to see more information about it
 
 4. Thats when I uncovered the flag! 
-Flag:
+Flag: C1{metadata_tells_more!}
 <img width="485" alt="Flag" src="https://github.com/user-attachments/assets/e7731ce9-f0e1-4367-ab40-7c903f8a7faa" />
